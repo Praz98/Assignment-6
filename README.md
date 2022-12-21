@@ -29,7 +29,9 @@ Latest commit 9881473 3 minutes ago
  1 contributor
 65 lines (60 sloc)  4.28 KB
 
-Assignment 4
+Assignment 6  
+
+This assignment has 3 different tasks given
  
 Boston Housing Dataset
 Predicting Median value of owner-occupied homes
